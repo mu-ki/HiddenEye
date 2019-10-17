@@ -31,7 +31,7 @@ pkg install git python php curl openssh grep && pip3 install wget && git clone -
 3) sTiKyt (https://github.com/sTiKyt)
 4) UNDEADSEC (https://github.com/UndeadSec)
 5) Micrafast (https://github.com/Micrafast)
-6) Mugunthkumar99 (WAITING FOR YOU)
+6) Mugunthkumar99 (https://github.com/mu-ki)
 
 # SCREENSHOT (Android-Userland)
 ![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
