@@ -16,7 +16,7 @@
       One Line Installation
 </p>
 <p>
-pkg install git python php curl openssh grep && pip3 install wget && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && python HiddenEye.py
+pkg install git python php curl openssh grep && pip3 install wget && git clone -b Termux-Support-Branch https://github.com/mu-ki/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && python HiddenEye.py
 </p>
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/darksecdevelopers)
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.3.1&x2=0)](https://github.com/DarkSecDevelopers/HiddenEye/releases)
