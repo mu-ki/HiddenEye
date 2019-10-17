@@ -12,7 +12,12 @@
 <p>
 
 </p>
-
+<p align="center">
+      One Line Installation
+</p>
+<p>
+pkg install git python php curl openssh grep && pip3 install wget && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && python HiddenEye.py
+</p>
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/darksecdevelopers)
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.3.1&x2=0)](https://github.com/DarkSecDevelopers/HiddenEye/releases)
 [![Open Source Helpers](https://www.codetriage.com/darksecdevelopers/hiddeneye/badges/users.svg)](https://www.codetriage.com/darksecdevelopers/hiddeneye)
@@ -26,7 +31,7 @@
 3) sTiKyt (https://github.com/sTiKyt)
 4) UNDEADSEC (https://github.com/UndeadSec)
 5) Micrafast (https://github.com/Micrafast)
-6) ___________ (WAITING FOR YOU)
+6) Mugunthkumar99 (WAITING FOR YOU)
 
 # SCREENSHOT (Android-Userland)
 ![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
